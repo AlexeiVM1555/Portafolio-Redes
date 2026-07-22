@@ -1,4 +1,4 @@
-Portafolio de Redes
+Portafolio de Redes.
 
-Este repositorio contiene mis prácticas y proyectos de redes
+Este repositorio contiene mis prácticas y proyectos de redes.
 
